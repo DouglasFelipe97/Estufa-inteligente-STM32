@@ -1,0 +1,18 @@
+### Footprint positions - created on Mon Feb 19 11:33:15 2024 ###
+### Printed by KiCad version 7.0.9
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C5        10uF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   146.2800   -89.1321  180.0000  top
+C6        100nF     C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   146.2800   -86.2921  180.0000  top
+C7        100nF     C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   146.2800   -84.2121  180.0000  top
+C8        100nF     C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   150.9800   -86.2921    0.0000  top
+C9        100nF     C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   150.0300   -83.1421   90.0000  top
+C11       12pF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   133.5100   -79.5221    0.0000  top
+C12       12pF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   133.5100   -84.4021    0.0000  top
+SW1       TCF       SW_PUSH-12mm_Wuerth-430476085716              166.9500  -110.4021    0.0000  top
+SW2       TVL       SW_PUSH-12mm_Wuerth-430476085716              118.4700  -110.3921    0.0000  top
+SW3       TCM       SW_PUSH-12mm_Wuerth-430476085716              142.7000   -94.3321    0.0000  top
+SW4       TBX       SW_PUSH-12mm_Wuerth-430476085716              142.7000  -126.4621    0.0000  top
+Y1        25Mhz     Crystal_HC49-4H_Vertical                      138.5300   -79.5321  -90.0000  top
+## End
